@@ -14,6 +14,7 @@ Documento de definición y estatus de proyecto
   * Evaluación Social de uso de suelo de la metrópoli (Observatorio de Conflictos Urbanos).
   * Mapear conflictos urbanos y por qué está pasando. (Usos Permitidos)
   * Conectado con la sociedad. 
+  * Cómo unir los datos de IMEPLAN con otros conjuntos de datos del gobierno y organizaciones de la sociedad civil para tener mejor información y datos sobre el AMG. 
     
 ###Descripción detallada de la propuesta de solución
   
@@ -49,7 +50,7 @@ Documento de definición y estatus de proyecto
 ###¿Qué skills le hace falta al proyecto actualmente?
 
 
-###Información de Contacto (puede ser una invitación a unirse a slack y el username al que dirigirse)
+###Información de Contacto
 
 **Únete a la conversación en slack**
 Búsca el canal de #guadalajara y pregunta por el proyecto, contestamos mas o menos rápido ;)
