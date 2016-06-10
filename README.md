@@ -61,13 +61,13 @@ Documento de definición y estatus de proyecto
     
 
 ###Roadmap / Actividades de desarrollo de proyecto
-    
-  [ ] Video / Infografía de como acceder a los datos.
-  [ ] Resumen / Visualización de que información está disponible.
-  [ ] Generar historias, visualizaciones e infografias de los datos liberados con otros datos.
-  [ ] Zoom sobre alguna colonia con los datos que se han liberado.
-  [ ] Análisis de repercusiones de Unidades Habitacionales y Edificios en zona andares.
-  [ ] Responder a las necesidades de política pública al perfil de la colonia.
+  
+  - [ ] Video / Infografía de como acceder a los datos.
+  - [ ] Resumen / Visualización de que información está disponible.
+  - [ ] Generar historias, visualizaciones e infografias de los datos liberados con otros datos.
+  - [ ] Zoom sobre alguna colonia con los datos que se han liberado.
+  - [ ] Análisis de repercusiones de Unidades Habitacionales y Edificios en zona andares.
+  - [ ] Responder a las necesidades de política pública al perfil de la colonia.
   
 ###Barreras: ¿Qué nos hace falta? (contactos, licencias, aprender una nueva tecnología, datos, etc.)
 
