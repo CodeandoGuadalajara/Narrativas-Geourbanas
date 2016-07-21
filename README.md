@@ -1,5 +1,5 @@
 
-#IMEPLAN Open Data
+#Nombre por Definir Carto and Open Data
 
 Documento de definición y estatus de proyecto
 
@@ -8,12 +8,14 @@ Documento de definición y estatus de proyecto
   IMEPLAN libera datos cada viernes con la premisa: 
   >Los datos se generan con recursos públicos, por lo cual deben serlo a menos que sean datos personales o por su naturaleza sean motivo de protección.
   Por los que los invitamos a este proyecto a colaborar con la creación de historias, análisis, visualizaciones e infografias, así como invitar a las instituciones públicas y organizaciones que se financian con dinero público a liberar sus datos.
-  
+  Actualmente Guadalajara también libero datos a través de su plataforma mapas.guadalajara.gob.mx y datos.guadalajara.gob.mx, que podemos hacer con ellos?.
     
 ###Organizaciones aliadas (si las hay)
   9 Municipios del AMG, Instituciones y Organizaciones público/privadas.
+  Municipio de Guadalajara con datos abiertos.
   
 ###Problemática que busca resolver
+  * Tomar 9 Colonias emblemáticas de los municipios y hacer un perfil de Colonia, definir objetivos y alcances.
   * IMEPLAN Cada viernes se publican datos (¿Qué hacemos con ellos?).
   * Cómo unir los datos de IMEPLAN con otros conjuntos de datos del gobierno y organizaciones de la sociedad civil para tener mejor información y datos sobre el AMG. 
   * Como ayudar a otros municipios e instituciones para liberar los datos.
@@ -31,6 +33,8 @@ Documento de definición y estatus de proyecto
 ###¿Donde están los Datos?
   * [Datamx]  (http://datamx.io/organization/imeplanamg)
   * [IMEPLAN] (http://imeplan.mx/info-metropolitana)
+  * [Guadalajara] (http://mapas.guadalajara.gob.mx)
+  * [Datos Guadalajara] (http://datos.guadalajara.gob.mx)
 
 ###Tecnologías a utilizar
   * [D3] (https://d3js.org)
@@ -38,7 +42,7 @@ Documento de definición y estatus de proyecto
   * [CartoDB](https://cartodb.com)
   * [OpenStreetMap](https://www.openstreetmap.org/)
   * [Mapillary] (www.mapillary.com/)
-  * [Otras...] (http://selection.datavisualization.ch)
+  * [Más Tecnologías en ...] (http://selection.datavisualization.ch)
     
 ###Perfiles de los integrantes del equipo actualmente
   * [Alejandra Hernández] - Abogada, Transparencia, Datos y Gobierno Abierto.
@@ -58,10 +62,14 @@ Documento de definición y estatus de proyecto
   * [Paola Flores]
   * [Adriana García]
   * [Analy S. Nuño]
+  * [Emma]
+  * [Karina]
+  * [Jorge Adrian]
     
 
 ###Roadmap / Actividades de desarrollo de proyecto
   
+  - [ ] Perfil de Colonia sobre el universo de datos liberado por las instituciones.
   - [ ] Video / Infografía de como acceder a los datos.
   - [ ] Resumen / Visualización de que información está disponible.
   - [ ] Generar historias, visualizaciones e infografias de los datos liberados con otros datos.
