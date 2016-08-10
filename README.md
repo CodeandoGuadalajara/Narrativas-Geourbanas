@@ -37,7 +37,7 @@ Documento de definición y estatus de proyecto
   * [IMEPLAN] (http://imeplan.mx/info-metropolitana)
   * [Guadalajara] (http://mapas.guadalajara.gob.mx)
   * [Datos Guadalajara] (http://datos.guadalajara.gob.mx)
-  * [Datos de la OSC Jalisco Cómo Vamo] (http://datamx.io/dataset/jalisco-como-vamos)
+  * [Datos de la OSC Jalisco Cómo Vamos] (http://datamx.io/dataset/jalisco-como-vamos)
 
 ###Tecnologías a utilizar
   * [D3] (https://d3js.org)
