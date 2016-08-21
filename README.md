@@ -11,6 +11,7 @@ Documento de definición y estatus de proyecto
   >Los datos se generan con recursos públicos, por lo cual deben serlo a menos que sean datos personales o por su naturaleza sean motivo de protección.
   Por los que los invitamos a este proyecto a colaborar con la creación de historias, análisis, visualizaciones e infografias, así como invitar a las instituciones públicas y organizaciones que se financian con dinero público a liberar sus datos.
   Actualmente Guadalajara también libero datos a través de su plataforma mapas.guadalajara.gob.mx y datos.guadalajara.gob.mx, que podemos hacer con ellos?.
+  Existen otros municipios e instituciones que desean liberar datos y no saben como hacerlo (nosotros podemos ayudarlos).
     
 ###Organizaciones aliadas
   9 Municipios del AMG, Instituciones y Organizaciones público/privadas.
